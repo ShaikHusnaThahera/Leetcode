@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
