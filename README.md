@@ -19,6 +19,7 @@
 | [0009-palindrome-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0009-palindrome-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0205-isomorphic-strings) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
