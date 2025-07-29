@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Two Pointers
@@ -62,5 +63,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
