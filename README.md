@@ -7,6 +7,7 @@
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
+| [0777-toeplitz-matrix](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
@@ -65,4 +66,8 @@
 | ------- |
 | [0136-single-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
+## Matrix
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0777-toeplitz-matrix) |
 <!---LeetCode Topics End-->
