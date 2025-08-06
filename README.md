@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
 | [0777-toeplitz-matrix](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
