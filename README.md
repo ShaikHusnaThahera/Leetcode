@@ -14,6 +14,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0561-array-partition](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0561-array-partition) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Counting Sort
 |  |
 | ------- |
