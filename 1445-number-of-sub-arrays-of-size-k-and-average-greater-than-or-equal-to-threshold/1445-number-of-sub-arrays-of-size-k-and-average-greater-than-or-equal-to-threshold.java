@@ -9,7 +9,7 @@ class Solution {
            }
            if(r-l+1==k){
             if((temp/k)>=threshold){
-                ans+=1;
+                ans++;
             }
            }
         }
