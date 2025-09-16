@@ -2,7 +2,8 @@ class Solution {
     public int maxConsecutiveAnswers(String nums, int k) {
          int cf=0,ct=0,l=0,ans=0;
       for(int r=0;r<nums.length();r++){
-          if(nums.charAt(r)=='T'){
+        char ch=nums.charAt(r);
+          if(ch=='T'){
               ct++;
           }
           else{
