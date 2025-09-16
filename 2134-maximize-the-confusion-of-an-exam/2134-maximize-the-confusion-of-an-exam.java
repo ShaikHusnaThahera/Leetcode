@@ -3,10 +3,10 @@ class Solution {
          int cf=0,ct=0,l=0,ans=0;
       for(int r=0;r<nums.length();r++){
           if(nums.charAt(r)=='T'){
-              ct+=1;
+              ct++;
           }
           else{
-              cf+=1;
+              cf++;
           }
           while(Math.min(cf,ct)>k){
               if(nums.charAt(l)=='T'){
