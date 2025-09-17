@@ -11,6 +11,7 @@
 | [0561-array-partition](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
 | [0777-toeplitz-matrix](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0940-fruit-into-baskets](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -50,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
+| [0940-fruit-into-baskets](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
