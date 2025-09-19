@@ -6,7 +6,7 @@ class Solution {
    }
        for(int r=0;r<nums.length;r++){
            temp+=nums[r];
-           while(temp>k && l<=r){
+           while(temp>k){
                if(nums[l]==1){
                    temp--;
                }
@@ -14,7 +14,7 @@ class Solution {
            }
           ans+=r-l+1;
        }
-    //   System.out.println(ans);
+    
       return ans;
 }
     public int numSubarraysWithSum(int[] nums, int k) {
