@@ -133,6 +133,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0278-first-bad-version) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -144,4 +145,8 @@
 | [1046-max-consecutive-ones-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
