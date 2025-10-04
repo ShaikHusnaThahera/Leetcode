@@ -1,12 +1,12 @@
 class Solution {
     public static boolean fun(int nums[],int n,int k){
-        int ans=0;
+        int temp=0;
         for(int i=0;i<nums.length;i++){
-            ans=nums[i]/k;
+            temp=nums[i]/k;
             if(nums[i]%k != 0){
-                ans++;
+                temp+=1;
             }
-            n-=ans;
+            n-=temp;
             if(n<0){
                 return false;
             }
