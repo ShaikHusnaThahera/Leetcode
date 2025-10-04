@@ -2,19 +2,15 @@ class Solution {
     public static boolean fun(int nums[],int n,int k){
         int ans=0;
         for(int i=0;i<nums.length;i++){
-            ans=nums[i];
-            while(ans >=k){
-                ans-=k;
-                n-=1;
+            ans=nums[i]/k;
+            if(nums[i]%k != 0){
+                ans++;
             }
-            if(ans <k && ans!=0){
-                ans=0;
-                n-=1;
-            }
-        }
+            n-=ans;
             if(n<0){
                 return false;
             }
+        }
         return true;
     }
     public int minimizedMaximum(int n, int[] quantities) {
