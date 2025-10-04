@@ -1,0 +1,33 @@
+class Solution {
+    public static boolean isPossible(int nums[],int days,int k){
+        int temp=0;
+        for(int i=0;i<nums.length;i++){
+            int val=nums[i];
+            if(val>k){
+                return false;
+            }
+            if(temp+val>k){
+           days-=1;
+           temp=0;
+            }
+            temp+=val;
+            if(days==0){
+                return false;
+            }
+        }
+        return true;
+    }
+    public int shipWithinDays(int[] weights, int days) {
+        int l=1,r=Integer.MAX_VALUE;
+        while(l<=r){
+            int m=l+(r-l)/2;
+            if(isPossible(weights,days,m)){
+               r=m-1;
+            }
+            else{
+                l=m+1;
+            }
+        }
+        return l;
+    }
+}
