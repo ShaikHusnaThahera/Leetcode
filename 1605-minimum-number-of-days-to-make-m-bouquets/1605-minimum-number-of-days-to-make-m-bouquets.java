@@ -2,7 +2,7 @@ class Solution {
     public static boolean isPossible(int bloomDay[],int m,int k,int d){
         int ans=0;
         for(int i=0;i<bloomDay.length;i++){
-            if(d>=bloomDay[i]){
+            if(bloomDay[i]<=d){
                 ans+=1;
             }
             else{
