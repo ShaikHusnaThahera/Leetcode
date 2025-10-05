@@ -2,9 +2,10 @@ class Solution {
     public static boolean isp(int nums[],int m,int k){
         for(int i=0;i<nums.length;i++){
         int temp=nums[i]/k;
-        if(nums[i]%k == 0){
-            temp-=1;
+        if(nums[i]%k != 0){
+            temp+=1;
         }
+        temp-=1;
         m-=temp;
         if(m<0){
             return false;
