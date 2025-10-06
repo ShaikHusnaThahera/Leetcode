@@ -173,7 +173,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3447-clear-digits) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
