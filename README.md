@@ -11,6 +11,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0561-array-partition](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
 | [0777-toeplitz-matrix](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0907-koko-eating-bananas](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -84,6 +85,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 ## Enumeration
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
