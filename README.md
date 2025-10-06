@@ -78,6 +78,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [3447-clear-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [3447-clear-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3447-clear-digits) |
 ## Enumeration
 |  |
 | ------- |
@@ -171,4 +173,5 @@
 | ------- |
 | [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [3447-clear-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
