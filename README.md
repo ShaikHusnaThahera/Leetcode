@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0136-single-number) |
@@ -103,6 +104,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0118-pascals-triangle) |
 ## Memoization
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
