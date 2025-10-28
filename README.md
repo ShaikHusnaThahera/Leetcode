@@ -32,6 +32,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3226-minimum-number-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3226-minimum-number-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [3226-minimum-number-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3447-clear-digits) |
 ## Enumeration
 |  |
@@ -197,4 +200,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0053-maximum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
