@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
@@ -40,6 +41,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
