@@ -47,6 +47,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -75,6 +76,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -88,6 +90,7 @@
 | [0020-valid-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
