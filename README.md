@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0242-valid-anagram) |
