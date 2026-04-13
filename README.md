@@ -48,6 +48,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -66,6 +67,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0263-ugly-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -85,6 +87,7 @@
 | [0037-sudoku-solver](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
