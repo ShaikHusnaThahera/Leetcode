@@ -52,6 +52,7 @@
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0202-happy-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0263-ugly-number) |
+| [0633-sum-of-square-numbers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -193,6 +195,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0278-first-bad-version) |
+| [0633-sum-of-square-numbers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
