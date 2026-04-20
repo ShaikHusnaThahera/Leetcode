@@ -39,6 +39,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0561-array-partition) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Counting Sort
