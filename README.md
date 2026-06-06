@@ -21,6 +21,7 @@
 | [0260-single-number-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
@@ -55,6 +56,7 @@
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
@@ -63,6 +65,7 @@
 | [0169-majority-element](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -101,6 +104,7 @@
 | [0205-isomorphic-strings](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -205,6 +209,7 @@
 | [0162-find-peak-element](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
