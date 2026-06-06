@@ -14,11 +14,9 @@ class Solution {
             }
             else if(nums2[m]>nums1[i]){
                 r=m-1;
-                continue;
             }
             else{
                 l=m+1;
-                continue;
             }
         }
     }
