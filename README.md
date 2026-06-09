@@ -81,6 +81,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0202-happy-number) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -142,6 +144,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
