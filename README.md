@@ -305,6 +305,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -325,10 +326,12 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
