@@ -40,6 +40,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1732-find-the-highest-altitude](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -242,6 +243,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2615-sum-of-distances](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2615-sum-of-distances) |
 ## Interactive
