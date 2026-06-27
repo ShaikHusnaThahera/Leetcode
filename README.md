@@ -93,6 +93,7 @@
 | [0263-ugly-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -349,6 +350,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
