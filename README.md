@@ -83,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0043-multiply-strings) |
@@ -348,6 +349,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -355,6 +357,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
