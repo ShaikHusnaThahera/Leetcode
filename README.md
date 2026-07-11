@@ -96,6 +96,7 @@
 | [0258-add-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
