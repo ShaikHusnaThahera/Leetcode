@@ -98,6 +98,7 @@
 | [0202-happy-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -376,4 +377,12 @@
 | [0206-reverse-linked-list](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0342-power-of-four) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
