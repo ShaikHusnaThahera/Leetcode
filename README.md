@@ -112,6 +112,7 @@
 | [2083-three-divisors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2383-add-two-integers) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2491-smallest-even-multiple](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Hash Table
 |  |
@@ -385,4 +386,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0292-nim-game) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
