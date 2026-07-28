@@ -115,6 +115,7 @@
 | [2469-convert-the-temperature](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2491-smallest-even-multiple](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Hash Table
 |  |
 | ------- |
