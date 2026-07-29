@@ -36,6 +36,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
