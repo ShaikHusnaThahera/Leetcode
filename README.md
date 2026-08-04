@@ -398,4 +398,8 @@
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
