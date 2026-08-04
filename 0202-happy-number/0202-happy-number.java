@@ -1,18 +1,17 @@
 class Solution {
     public static int sums(int n){
-        int s=0;
+        int sum=0;
         while(n>0){
-            int digit=n%10;
-            s+=digit*digit;
+            int dig=n%10;
+            sum+=dig*dig;
             n=n/10;
         }
-        return s;
+        return sum;
     }
     public boolean isHappy(int n) {
         int s=sums(n);
-        // System.out.println(s);
-        while(s!=1 && s!=4){
-               s=sums(s);
+        while(s!=1&&s!=4){
+           s=sums(s);
         }
         return s==1;
     }
