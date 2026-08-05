@@ -100,6 +100,7 @@
 | [0067-add-binary](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0292-nim-game) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0461-hamming-distance) |
@@ -393,6 +395,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0342-power-of-four) |
 ## Brainteaser
