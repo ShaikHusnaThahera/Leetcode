@@ -47,6 +47,7 @@
 | [1732-find-the-highest-altitude](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -111,6 +112,7 @@
 | [1642-water-bottles](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2083-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Simulation
@@ -402,4 +405,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0202-happy-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
