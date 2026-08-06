@@ -11,6 +11,7 @@
 | [0037-sudoku-solver](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0118-pascals-triangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -239,6 +241,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0561-array-partition) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
