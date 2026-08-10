@@ -58,6 +58,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2615-sum-of-distances) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3226-minimum-number-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -151,6 +152,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2615-sum-of-distances](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2615-sum-of-distances) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [0461-hamming-distance](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Matrix
 |  |
 | ------- |
