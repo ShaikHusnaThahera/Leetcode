@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
@@ -67,6 +68,7 @@
 | [0011-container-with-most-water](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0202-happy-number) |
@@ -197,6 +199,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0070-climbing-stairs) |
@@ -299,6 +302,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -339,6 +343,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
