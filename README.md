@@ -28,6 +28,7 @@
 | [0239-sliding-window-maximum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -294,6 +295,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -329,6 +331,7 @@
 | [0155-min-stack](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
