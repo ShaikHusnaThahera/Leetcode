@@ -38,6 +38,7 @@
 | [0561-array-partition](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0907-koko-eating-bananas](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -296,6 +297,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
