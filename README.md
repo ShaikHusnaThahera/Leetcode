@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0054-spiral-matrix) |
 | [0777-toeplitz-matrix](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0777-toeplitz-matrix) |
 ## Sliding Window
 |  |
