@@ -76,6 +76,7 @@
 | [2615-sum-of-distances](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2615-sum-of-distances) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3226-minimum-number-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3226-minimum-number-game) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2615-sum-of-distances](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2615-sum-of-distances) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
