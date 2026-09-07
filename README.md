@@ -353,6 +353,7 @@
 | [0020-valid-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -416,6 +417,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -425,6 +427,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -437,6 +440,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
