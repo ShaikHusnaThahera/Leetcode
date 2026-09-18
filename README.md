@@ -203,6 +203,7 @@
 | [0520-detect-capital](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1544-make-the-string-great](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1544-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -370,6 +371,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1544-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3447-clear-digits) |
 ## Design
