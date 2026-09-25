@@ -45,6 +45,7 @@
 | [0503-next-greater-element-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0561-array-partition) |
+| [0622-design-circular-queue](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0724-find-pivot-index) |
@@ -385,6 +386,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
@@ -392,6 +394,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0622-design-circular-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -504,6 +507,7 @@
 | [0206-reverse-linked-list](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
