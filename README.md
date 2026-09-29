@@ -49,6 +49,7 @@
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0881-boats-to-save-people](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -334,6 +335,7 @@
 | [0367-valid-perfect-square](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
