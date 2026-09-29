@@ -333,6 +333,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -363,6 +364,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Stack
 |  |
 | ------- |
