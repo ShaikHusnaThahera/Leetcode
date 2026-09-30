@@ -253,6 +253,7 @@
 | [0070-climbing-stairs](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Memoization
@@ -269,6 +270,7 @@
 | [0231-power-of-two](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0645-set-mismatch) |
