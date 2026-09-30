@@ -9,7 +9,7 @@ class Solution {
         }
         return count;
     }
-    public int[] countBits(int n) {
+    public static int[] countBits(int n) {
         int nums[]=new int[n+1];
         for(int i=0;i<n+1;i++){
             nums[i]=setbits(i);
