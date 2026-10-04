@@ -210,6 +210,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1544-make-the-string-great) |
@@ -257,6 +258,7 @@
 | [0198-house-robber](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Memoization
 |  |
@@ -317,6 +319,7 @@
 | [0435-non-overlapping-intervals](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -385,6 +388,7 @@
 | [0234-palindrome-linked-list](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -618,5 +622,6 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
