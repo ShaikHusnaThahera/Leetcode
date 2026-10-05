@@ -211,6 +211,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1544-make-the-string-great) |
@@ -390,6 +391,7 @@
 | [0503-next-greater-element-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -623,5 +625,6 @@
 | [0020-valid-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
