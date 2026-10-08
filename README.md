@@ -159,6 +159,7 @@
 | [2238-a-number-after-a-double-reversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2383-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2491-smallest-even-multiple](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -231,6 +232,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2083-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Simulation
 |  |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2083-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -575,10 +578,12 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Quicksort
 |  |
 | ------- |
