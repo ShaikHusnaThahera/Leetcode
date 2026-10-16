@@ -81,6 +81,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2615-sum-of-distances) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3226-minimum-number-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3226-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -197,6 +198,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2615-sum-of-distances](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2615-sum-of-distances) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -656,4 +658,12 @@
 | [1021-remove-outermost-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
