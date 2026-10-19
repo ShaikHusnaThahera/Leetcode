@@ -73,6 +73,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -128,6 +129,7 @@
 | [0881-boats-to-save-people](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -377,6 +379,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
