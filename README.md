@@ -241,6 +241,7 @@
 | [2942-find-words-containing-character](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3136-valid-word](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3136-valid-word) |
 | [3447-clear-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3447-clear-digits) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Number Theory
 |  |
 | ------- |
