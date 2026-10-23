@@ -88,6 +88,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3226-minimum-number-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3226-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3886-sum-of-sortable-integers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
@@ -310,6 +311,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
