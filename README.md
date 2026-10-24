@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0027-remove-element) |
@@ -185,6 +186,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0041-first-missing-positive) |
