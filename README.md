@@ -170,6 +170,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2383-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2469-convert-the-temperature) |
@@ -239,6 +240,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2409-count-days-spent-together](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3136-valid-word](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3136-valid-word) |
 | [3447-clear-digits](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3447-clear-digits) |
