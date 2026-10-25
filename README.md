@@ -60,6 +60,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -323,6 +324,7 @@
 | [0054-spiral-matrix](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0777-toeplitz-matrix](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [1254-number-of-closed-islands](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -532,6 +534,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -545,6 +548,7 @@
 | [0226-invert-binary-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -694,6 +698,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
