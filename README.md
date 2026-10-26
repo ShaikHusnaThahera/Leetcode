@@ -90,6 +90,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3226-minimum-number-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3226-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3886-sum-of-sortable-integers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -325,6 +326,7 @@
 | [0059-spiral-matrix-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0777-toeplitz-matrix](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -535,6 +537,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -549,6 +552,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -700,6 +704,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Combinatorics
 |  |
 | ------- |
