@@ -713,4 +713,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
