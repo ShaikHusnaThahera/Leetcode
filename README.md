@@ -84,6 +84,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2615-sum-of-distances) |
+| [2747-count-zero-request-servers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -141,6 +142,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3226-minimum-number-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3226-minimum-number-game) |
 | [3886-sum-of-sortable-integers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Math
@@ -214,6 +216,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2615-sum-of-distances](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2615-sum-of-distances) |
+| [2747-count-zero-request-servers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -350,6 +353,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2747-count-zero-request-servers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting
 |  |
