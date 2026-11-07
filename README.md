@@ -71,6 +71,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1882-process-tasks-using-servers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -492,6 +493,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1882-process-tasks-using-servers](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3226-minimum-number-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3226-minimum-number-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
