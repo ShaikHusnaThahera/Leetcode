@@ -90,6 +90,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3226-minimum-number-game](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3226-minimum-number-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ShaikHusnaThahera/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
